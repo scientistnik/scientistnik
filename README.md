@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/scientistnik?cardType=github)](https://git.io/awesome-stats-card)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scientistnik)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **scientistnik/scientistnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
