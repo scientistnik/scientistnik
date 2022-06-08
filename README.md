@@ -1,5 +1,9 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scientistnik)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=scientistnik)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scientistnik&hide=html&langs_count=7&exclude_repo=ebookdroid,scientistnik.github.io,bcoin,bitcoin-core,popcorn-desktop,bitsharesjs,bitsharesjs-ws,telegram-bot-github,bitshares-ui,aiokafka,wordpress-golos-chain,slate,gekko,bitshares-core,bittrex-ruby,LZMA-JS,xxkb,StockSharp,UnrealEngine)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **scientistnik/scientistnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
